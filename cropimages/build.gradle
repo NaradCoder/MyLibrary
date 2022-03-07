@@ -51,7 +51,7 @@ afterEvaluate {
 
                 groupId = 'com.github.cropimage'
                 artifactId = 'crop-image'
-                version = '1.0.0'
+                version = '1.0.1'
             }
         }
     }
